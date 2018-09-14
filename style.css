@@ -1,5 +1,9 @@
-h{
+h1{
   font-weight:bold;
   font-size:30pt;
   text-align:center;
+}
+h2{
+  font-weight:bold;
+  font-size:10pt;
 }
