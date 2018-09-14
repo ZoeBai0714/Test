@@ -18,3 +18,9 @@ h2,h3{
 p{
   text-align:left;
 }
+
+.pickles{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
