@@ -5,10 +5,13 @@ h1{
   font-family:Arial, Helvetica, sans-serif;
 }
 
-h1+p, p+div{
+h1+p{
   padding-bottom:65px;
 }
 
+p+div{
+    padding-bottom:65px;
+}
 
 h2,h3{
   font-style:italic;
