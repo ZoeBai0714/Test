@@ -35,6 +35,10 @@ p,div{
   float:right;
 }
 
+li+p{
+  text-align:left;
+}
+
  ul{
   float:left:
 }
