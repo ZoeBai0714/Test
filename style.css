@@ -61,6 +61,6 @@ p+img{
   padding-bottom:30px;
 }
 
-a:hover{
+a:link{
   background-color:gray;
 }
