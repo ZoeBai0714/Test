@@ -52,3 +52,7 @@ li{
   font-style:italic;
   font-size:15pt;
 }
+
+p+img{
+  padding-bottom:30px;
+}
