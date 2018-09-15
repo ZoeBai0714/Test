@@ -61,6 +61,6 @@ p+img{
   padding-bottom:30px;
 }
 
-a:link{
-  background-color:gray;
+a:hover{
+  color:coral;
 }
