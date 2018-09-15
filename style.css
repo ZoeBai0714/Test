@@ -13,6 +13,7 @@ p+div{
     padding-bottom:65px;
 }
 
+
 h2,h3,h4{
   font-style:italic;
   font-size:20pt;
@@ -36,4 +37,9 @@ p,div{
 
  ul{
   float:left:
+}
+
+li{
+  font-weight:bold;
+  font-size:15pt;
 }
